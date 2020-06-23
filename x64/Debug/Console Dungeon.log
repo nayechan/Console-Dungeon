@@ -1,0 +1,6 @@
+﻿  MainScene.c
+c:\users\nayec\source\repos\console dungeon\mainscene.c(116): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\nayec\source\repos\console dungeon\mainscene.c(21): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\nayec\source\repos\console dungeon\mainscene.c(22): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\nayec\source\repos\console dungeon\mainscene.c(23): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Console Dungeon.vcxproj -> C:\Users\nayec\source\repos\Console Dungeon\x64\Debug\Console Dungeon.exe

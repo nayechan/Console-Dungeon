@@ -1,0 +1,13 @@
+﻿  MainScene.c
+c:\users\nayec\source\repos\console dungeon\mainscene.c(22): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\nayec\source\repos\console dungeon\mainscene.c(23): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\nayec\source\repos\console dungeon\mainscene.c(24): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\nayec\source\repos\console dungeon\mainscene.c(25): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\nayec\source\repos\console dungeon\mainscene.c(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다.
+  3 of 18 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Console Dungeon.vcxproj -> C:\Users\nayec\source\repos\Console Dungeon\x64\Release\Console Dungeon.exe
